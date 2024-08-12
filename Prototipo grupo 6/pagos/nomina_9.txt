@@ -1,0 +1,3 @@
+Empleado: Fernando Ruiz
+ID del Empleado: 9
+Monto del Pago: $5000.00

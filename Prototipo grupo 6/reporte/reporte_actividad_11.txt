@@ -1,0 +1,8 @@
+Reporte de Actividad
+---------------------
+ID: 11
+Nombre: tarea de software
+Descripción: un ejemplo
+Fecha Límite: 2024-08-11
+Estado: pendiente
+---------------------

@@ -1,0 +1,8 @@
+Reporte de Actividad
+---------------------
+ID: 12
+Nombre: un ejemplo
+Descripción: un ejemplo
+Fecha Límite: 2024-08-15
+Estado: pendiente
+---------------------

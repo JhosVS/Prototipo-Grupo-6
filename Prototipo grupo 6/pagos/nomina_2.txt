@@ -1,0 +1,3 @@
+Empleado: María López
+ID del Empleado: 2
+Monto del Pago: $4561.00

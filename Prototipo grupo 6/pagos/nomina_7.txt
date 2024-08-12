@@ -1,0 +1,3 @@
+Empleado: Pedro Fernández
+ID del Empleado: 7
+Monto del Pago: $4000.00

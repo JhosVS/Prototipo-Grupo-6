@@ -1,0 +1,3 @@
+Empleado: Juan Pérez
+ID del Empleado: 1
+Monto del Pago: $35000.00
